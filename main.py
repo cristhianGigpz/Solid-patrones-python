@@ -70,4 +70,44 @@ I	Interface Segregation Principle	- Es mejor tener varias interfaces pequeñas q
 D	Dependency Inversion Principle - Depender de abstracciones y no de implementaciones 
 	concretas.
 
+    S — Single Responsibility
+Una clase
+↓
+una responsabilidad
+
+O — Open/Closed
+Extender sin modificar
+
+L — Liskov Substitution
+Las implementaciones deben respetar el contrato
+
+I — Interface Segregation
+Interfaces pequeñas y específicas
+
+D — Dependency Inversion
+Depender de abstracciones
+
+-------------------------------------------------------------
+Podemos verlo como una cadena:
+
+SRP
+↓
+Separamos responsabilidades
+
+ISP
+↓
+Creamos contratos específicos
+
+DIP
+↓
+Dependemos de esos contratos
+
+LSP
+↓
+Las implementaciones respetan los contratos
+
+OCP
+↓
+Podemos agregar nuevas implementaciones
+sin cambiar la lógica existente
 """
