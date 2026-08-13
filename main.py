@@ -110,4 +110,35 @@ OCP
 ↓
 Podemos agregar nuevas implementaciones
 sin cambiar la lógica existente
+
+
+-------------------------------------------------------------
+Los patrones GoF
+
+Cuando hablamos de patrones de diseño clásicos, generalmente hacemos 
+referencia al libro:
+
+Design Patterns: Elements of Reusable Object-Oriented Software
+Publicado en 1994.
+
+Autores:
+
+Erich Gamma
+Richard Helm
+Ralph Johnson
+John Vlissides
+
+A estos cuatro autores se les conoce como:
+
+Gang of Four o simplemente GoF
+
+El libro documentó 23 patrones de diseño orientados a objetos.
+
+Los 23 patrones GoF
+
+Los patrones fueron organizados en tres categorías:
+
+Creacionales (5)
+Estructurales (7)
+Comportamiento (11)
 """
