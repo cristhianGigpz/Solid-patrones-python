@@ -29,3 +29,7 @@ lista = [10, 20, 30]
 iterador = iter([10, 20, 30])
 print(next(iterador))
 print(next(iterador))
+
+# def obtener_usuarios():
+#     for usuario in usuarios:
+#         yield usuario
